@@ -4,6 +4,3 @@
 [submodule "Strategy/Facebook"]
 	path = Strategy/Facebook
 	url = https://github.com/opauth/facebook.git
-[submodule "Strategy/Twitter"]
-	path = Strategy/Twitter
-	url = https://github.com/opauth/twitter.git
